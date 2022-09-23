@@ -1,0 +1,3 @@
+[submodule "algorithms-python"]
+	path = algorithms-python
+	url = https://github.com/GouthamShiv/algorithms-python.git
